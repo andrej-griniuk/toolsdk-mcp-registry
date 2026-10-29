@@ -13,9 +13,7 @@
       "url": "https://mcp.fincodesapi.com/mcp",
       "auth": {
         "type": "oauth2",
-        "scopes": [
-          "fincodesapi"
-        ]
+        "scopes": ["fincodesapi"]
       }
     }
   ]
